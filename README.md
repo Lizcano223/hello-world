@@ -1,2 +1,3 @@
 # hello-world
-Just another first-time repository
+
+This is just a firs-time repository
